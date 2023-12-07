@@ -1,6 +1,6 @@
 {
     "name": "manikandan/laravel-mongo-exception-handler",
-    "description": "A simple handler package for MongoDB bulk write exceptions",
+    "description": "Package Name: composer require manikandan/laravel-mongo-exception-handler Description:The composer require manikandan/laravel-mongo-exception-handler is a Laravel package tailored for efficiently tracking and managing failed validation for documents in your application. It provides a comprehensive solution for handling validation errors, logging them, and offering insights into the validation process.Key Features:Documented Validation Failures: Keep a detailed record of validation failures, including information about the document, validation rules, and error messages.How to Use:Install the package via Composer. Configure the package settings in your Laravel application. Integrate the provided service providers and use the package's API to interact with validation failure data.",
     "type": "library",
     "license": "MIT",
     "authors": [
