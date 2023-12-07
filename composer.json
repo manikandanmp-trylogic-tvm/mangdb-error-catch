@@ -1,0 +1,19 @@
+{
+    "name": "manikandan/laravel-mongo-exception-handler",
+    "description": "A simple handler package for MongoDB bulk write exceptions",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Your Name",
+            "email": "your@email.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "MongoExceptionHandler\\": "src/"
+        }
+    }
+}
