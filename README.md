@@ -1,0 +1,1 @@
+# mangdb-error-catch
